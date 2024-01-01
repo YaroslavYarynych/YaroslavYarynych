@@ -18,8 +18,7 @@
 </h1>
 
 <h3>
-Full-stack Developer with an Upper-Intermediate level of English, creating high-performance, unique websites and passionate about solving business problems, optimizing processes. I have a bachelor's degree in IT development in business, which focused on economic knowledge and included a comprehensive study of Business Analysis In depth. This background empowers me to collaborate with stakeholders and oversee business processes comprehensively, managing projects from initiation to completion. In my work, I apply my skills and expertise in React, TypeScript, and Node.js technologies to develop dynamic and efficient web applications. Additionally, I specialize in server-side integration using Express.js, ensuring the creation of web applications that are not only dynamic but also highly performant.
-</h3>
+Full-stack Developer with an Upper-Intermediate level of English, creating high-performance, unique websites and passionate about solving business problems, optimizing processes. I have a bachelor's degree in IT development in business, which focused on economic knowledge and included a comprehensive study of Business Analysis In depth. This background empowers me to collaborate with stakeholders and oversee business processes comprehensively, managing projects from initiation to completion. In my work, I apply my skills and expertise in React, TypeScript technologies to develop dynamic and efficient web applications and coupled it with Node.js (Express.js) for the server side, ensuring a cohesive and efficient web solution.
 
 <br>
 <hr>
