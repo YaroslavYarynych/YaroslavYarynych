@@ -27,7 +27,7 @@ Full-stack Developer with an Upper-Intermediate level of English, creating high-
 
 ## :volcano: Frontend
 <div>
-    <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,typescript,react,redux,materialui,bootstrap&theme=dark" title="Backend" alt="Backend" width="600" height="60"/>&nbsp;
+    <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,typescript,react,redux,vuejs,materialui,bootstrap&theme=dark" title="Backend" alt="Backend" width="600" height="60"/>&nbsp;
 </div>
 
 ## :waxing_crescent_moon: Backend
@@ -43,7 +43,7 @@ Full-stack Developer with an Upper-Intermediate level of English, creating high-
 
 ## :dizzy: Future plans
 <div>
-  <img src="https://skillicons.dev/icons?i=nextjs,vuejs&theme=dark" title="FuturePlans" alt="FuturePlans" width="130" height="60"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs,reactnative&theme=dark" title="FuturePlans" alt="FuturePlans" width="130" height="60"/>&nbsp;
 </div>
 
 
